@@ -43,5 +43,5 @@
 		"ASSISTANT_PASSWORD": "password",
 		"ENV": "developer"
 	},
-	"postCreateCommand": "pip3 install --user -r requirements-dev.txt"
+	"postCreateCommand": "conda install requirements-dev.txt"
 }
