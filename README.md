@@ -12,7 +12,7 @@ Using pip
 
 From any shell, call `conda-agent` then supply the message flag `-m` then your prompt in quotes.
 
-`conda-agent -m "What is the difference between conda-forge and conda?"
+`conda-agent -m "What is the difference between conda-forge and conda?"`
 
 
 # Testing
