@@ -1,0 +1,22 @@
+[project]
+name = "conda-agent"
+version = "0.0.1"
+authors = [
+  { name="Dawn Wages", email="dawn.wages@gmail.com" },
+]
+description = "An command line AI Agent for Anaconda."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = {text = "MIT"}
+pypi-AgENdGVzdC5weXBpLm9yZwIkYzhkNWFkNTMtY2VlYi00NjI1LWI5ZTMtZDA1NTA3MGIyOTY1AAIqWzMsImQ0MGI1MTJhLTRkZTYtNDVjYS1hNDAwLWQyYTdmNmU1NDYwZiJdAAAGIIDifcBH0kzCiQnzZrBlGLfQ6r2OTmWJiA6QJTlAzgrf
+[project.urls]
+Homepage = "https://github.com/pypa/conda-agent"
+Issues = "https://github.com/pypa/conda-agent/issues"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
