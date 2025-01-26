@@ -3,10 +3,16 @@ This library is a Python AI Agent for the conda ecosystem.
 
 It should be considered unstable untile the release of v1.0
 
-# Usage
+# Installing conda-agent
 
 Using pip
-`pip install -i https://test.pypi.org/simple/ conda-agent==0.0.1`
+`pip install -i https://test.pypi.org/simple/ test-agent==0.0.1`
+
+# Using conda-agent
+
+From any shell, call `conda-agent` then supply the message flag `-m` then your prompt in quotes.
+
+`conda-agent -m "What is the difference between conda-forge and conda?"
 
 
 # Testing
