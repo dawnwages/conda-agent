@@ -1,6 +1,6 @@
 [project]
-name = "conda-agent"
-version = "0.0.1"
+name = "conda_agent"
+version = "0.0.2"
 authors = [
   { name="Dawn Wages", email="dawn.wages@gmail.com" },
 ]
